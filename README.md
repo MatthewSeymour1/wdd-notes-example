@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-In another terminal:
+In another terminals:
 
 ```bash
 cd frontend
