@@ -1,4 +1,4 @@
-![Checks](https://github.com/matthewseymour1/notes-app/actions/workflows/checks.yml/badge.svg)
+![Checks](https://github.com/matthewseymour1/wdd-notes-example/actions/workflows/checks.yml/badge.svg)
 
 # Notes app
 
